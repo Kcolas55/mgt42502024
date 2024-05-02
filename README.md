@@ -5,7 +5,9 @@ Authors: Kieran Colasurdo (kcolasurdo2@elon.edu), Thomas Charette (tcharette2@el
 ## Project Description
 ### Questions of Interest
 -Q1
+
 -Q2
+
 -Q3....
 
 ### Importance statement
