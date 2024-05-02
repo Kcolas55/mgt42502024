@@ -17,6 +17,19 @@ These questions are *especially* **important** because
 3. Reason 3..
 
 
+### Data Description
+
+
+
+### Interpreting Visualizations
+<img width="447" alt="image" src="https://github.com/Kcolas55/mgt42502024/assets/168783689/68bcf9e6-b2bf-4dc4-98f7-b7d2b6e816b6">
+<img width="568" alt="image" src="https://github.com/Kcolas55/mgt42502024/assets/168783689/587efaa5-0309-4d5d-bee4-7b4c31d52b97">
+<img width="820" alt="image" src="https://github.com/Kcolas55/mgt42502024/assets/168783689/b546bc55-1994-40bf-9ef6-633baf3be488">
+
+
+
+### Discussion & Summary
+
 
 ### *Below is the format for adding links to charts or visualizations*
 [Elon University](https://www.elon.edu)
