@@ -31,9 +31,19 @@ These questions are *especially* **important** because
 ### Discussion & Summary
 
 
+
+##Example info for helping us input links and charts
+
 ### *Below is the format for adding links to charts or visualizations*
 [Elon University](https://www.elon.edu)
 
 
 ### I just took a screenshot and copied and pasted this in to here below and it creates this link
 <img width="303" alt="image" src="https://github.com/Kcolas55/mgt42502024/assets/168783689/f25b92d6-66f5-4266-8f44-d0953032285a">
+
+
+
+
+...python 
+import pandas as pd
+...
