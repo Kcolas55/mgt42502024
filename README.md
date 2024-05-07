@@ -18,7 +18,12 @@ These questions are *especially* **important** because
 
 
 ### Data Description
-*put links to project for tableau and streamlit*
+## Graph 1
+
+## Graph 2
+https://public.tableau.com/views/MGT4250Graph2/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+## Graph 3
 
 
 ### Interpreting Visualizations
